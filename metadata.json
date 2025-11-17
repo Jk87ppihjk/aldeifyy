@@ -1,0 +1,5 @@
+{
+  "name": "aldeify",
+  "description": "The official mobile application for the aldeify marketplace. Buy from local stores, sell your products, and manage deliveries, all in one place.",
+  "requestFramePermissions": []
+}
